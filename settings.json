@@ -1,0 +1,12 @@
+{
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 0.25,
+    "workbench.sideBar.location": "left",
+    "workbench.view.alwaysShowHeaderActions": true,
+    "editor.renderIndentGuides": false,
+    "python.dataScience.sendSelectionToInteractiveWindow": true,
+    "editor.hover.delay": 50,
+    "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+    "python.jediEnabled": false,
+    "editor.rulers": [80, 120],
+}
